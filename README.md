@@ -16,6 +16,16 @@ See the full project setup guide in [SETUP.md](SETUP.md).
 
 ---
 
+## Organization (Group Project Repository)
+
+This project was developed as a university group project and is maintained under a GitHub organization repository.
+
+Group Project Repository (Original Repository) : https://github.com/CareLink-system/careLinkPlatform
+
+Live Link: https://care-link-platform.vercel.app/ 
+
+---
+
 ## 🖥️ Prerequisites
 
 Before you begin, ensure you have the following installed:
