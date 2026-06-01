@@ -8,6 +8,8 @@ Group Project Repository (Original Repository) : https://github.com/CareLink-sys
 
 Live Link: https://care-link-platform.vercel.app/ 
 
+Live Backend Link - https://carelinkplatform-apigateway.onrender.com
+
 ---
 
 See the full project setup guide in [SETUP.md](SETUP.md).
