@@ -1,0 +1,6 @@
+@ApiGateway_HostAddress = https://localhost:5000
+
+GET {{ApiGateway_HostAddress}}/api/test
+Accept: application/json
+
+###
