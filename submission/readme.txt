@@ -50,7 +50,7 @@ JWT_AUDIENCE=careLinkPlatformUsers
 # PAYMENT (Stripe)
 # ============================================
 
-STRIPE_SECRET_KEY=sk_test_51TM5qBFGXSOnbguxQ3WoGblPcNfdrJKqNjipABzEGwbo3cDIlf2MVgZpUGczSqVFiJXRVQIdUUgXY3DApQblBiFA00nfBpRZxP
+STRIPE_SECRET_KEY=sk_test_51TM5qBFG............
 
 
 # ============================================
