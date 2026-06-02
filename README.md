@@ -1,4 +1,4 @@
-# 🏥 CareLink Platform - Backend Setup Guide
+# CareLink Platform - Backend Setup Guide
 
 ## Organization (Group Project Repository)
 
